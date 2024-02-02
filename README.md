@@ -1,6 +1,6 @@
 # Tableau-Practice
 
-Learning Tableau
+Pracrticing Tableau
 
 Learned to create an Extract
 
